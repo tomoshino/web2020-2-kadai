@@ -1,7 +1,7 @@
 
-function ChangeImageAndBack(){
+function ChangeImageAndBack1(){
   
-  imgback();
+  imgback1();
   
   ThreeSecChange1(); 
   
@@ -19,6 +19,6 @@ function imgchange1() {
 //  setInterval("imgback()",3000);
 //}
 
-function imgback() {
+function imgback1() {
   document.getElementById('img1').src = './image/syumi2.png';
 }
